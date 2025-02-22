@@ -3,3 +3,4 @@ Silent Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994
 Godly Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1301982792053297162/1338955005616721972/Loader.exe?ex=67bace45&is=67b97cc5&hm=07e08fcf2dd152b04a53b6bb5dbd404d20bcc2b367b05fd07defabd6d6cef52c&
 LDV2 External,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342890588634218536/LDV2_1.exe?ex=67bb47d2&is=67b9f652&hm=15b8964ab7d190271d5a4e52b3f5b0830d99c227cced43a2f20974b8a734c508&
 Unlock All,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342887508224249906/Auth_NB.exe?ex=67bb44f3&is=67b9f373&hm=44a810c3f8b63bd2fabf53abcbd0ad8f7c698d906373af101b92fa55e9ff19a0&
+Zenith Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342891124758544405/t10_fs_lkjtn43.exe?ex=67bb4851&is=67b9f6d1&hm=b8f195c916822cbb41e9a1d6274d0771123ea4d1d32504aa6e467a2c5e4bb97b&
