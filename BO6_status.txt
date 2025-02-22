@@ -1,1 +1,2 @@
 Unlock All,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342887508224249906/Auth_NB.exe?ex=67bb44f3&is=67b9f373&hm=44a810c3f8b63bd2fabf53abcbd0ad8f7c698d906373af101b92fa55e9ff19a0&
+Silent Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342888202893004921/Silent_Chair__Blocker.exe?ex=67bb4599&is=67b9f419&hm=822a062b15d21a7434281b5c8eb07423b9974fa655bd042e47329e7a85eed732&
