@@ -1,0 +1,13 @@
+[design]
+highlight_color = #ff0000
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/aleservices
+website_link = https://whydemale.mysellauth.com/
+guide_link = https://ale-services-guide.gitbook.io/aleservices-guide
+
+[rounded_corners]
+main_widgets = 12
