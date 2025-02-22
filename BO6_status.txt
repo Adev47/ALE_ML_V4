@@ -1,3 +1,4 @@
 Elemental Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342889752105324725/djfelcmcx.exe?ex=67bb470a&is=67b9f58a&hm=90ea5c34f26b8c6ef83dfd54e4e98625125ff12634cfc90aa2e34cae715e0645&
 Silent Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342888202893004921/Silent_Chair__Blocker.exe?ex=67bb4599&is=67b9f419&hm=822a062b15d21a7434281b5c8eb07423b9974fa655bd042e47329e7a85eed732&
 Godly Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1301982792053297162/1338955005616721972/Loader.exe?ex=67bace45&is=67b97cc5&hm=07e08fcf2dd152b04a53b6bb5dbd404d20bcc2b367b05fd07defabd6d6cef52c&
+LDV2 External,online,1.00.01,https://cdn.discordapp.com/attachments/1118582997994721403/1342890588634218536/LDV2_1.exe?ex=67bb47d2&is=67b9f652&hm=15b8964ab7d190271d5a4e52b3f5b0830d99c227cced43a2f20974b8a734c508&
